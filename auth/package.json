@@ -6,7 +6,7 @@
   "repository": "https://github.com/yohan-choi-dev/marketplace",
   "author": "Yohan Choi",
   "license": "MIT",
-  "script": {
+  "scripts": {
     "start": "ts-node-dev src/index.tx",
     "test": "jest --watchAll --no-cache"
   },
