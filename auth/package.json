@@ -2,12 +2,12 @@
   "name": "server",
   "version": "1.0.0",
   "description": "marketplace server",
-  "main": "server.js",
+  "main": "app.ts",
   "repository": "https://github.com/yohan-choi-dev/marketplace",
   "author": "Yohan Choi",
   "license": "MIT",
   "scripts": {
-    "start": "ts-node-dev src/index.tx",
+    "start": "ts-node-dev src/app.ts",
     "test": "jest --watchAll --no-cache"
   },
   "dependencies": {
