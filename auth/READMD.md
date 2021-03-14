@@ -1,6 +1,7 @@
-## API Documentation
+# API Documentation
 
-### Auth
+## Auth
+
 |Route   | Method   | Body  | Purpose|
 |---|---|---|---|
 |/api/users/signup   | POST   | {email: string, password: string}  |  Sign up for an account |  
